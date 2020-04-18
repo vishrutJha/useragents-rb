@@ -1,5 +1,5 @@
-require 'zlib'
-require_relative 'useragents/fetch'
+# require 'zlib'
+# require_relative 'useragents/fetch'
 
 module UserAgents
 
